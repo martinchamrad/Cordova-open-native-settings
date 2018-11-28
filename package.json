@@ -1,0 +1,48 @@
+{
+  "name": "cordova-plugin-native-settings",
+  "version": "1.2.0",
+  "description": "Native settings opener for Cordova",
+  "cordova": {
+    "id": "cordova-plugin-native-settings",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinchamrad/Cordova-open-native-settings.git"
+  },
+  "keywords": [
+    "native-settings",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Martin Chamrad",
+  "contributors": [
+    {
+      "username": "BradyLiles"
+    },
+    {
+      "username": "guyromb"
+    },
+    {
+      "username": "deefactorial"
+    },
+    {
+      "username": "selahssea"
+    },
+    {
+      "username": "asmund1"
+    },
+    {
+      "username": "perlish"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinchamrad/Cordova-open-native-settings/issues"
+  },
+  "homepage": "https://github.com/martinchamrad/Cordova-open-native-settings#readme"
+}
